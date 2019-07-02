@@ -2,5 +2,5 @@ owner=561267998308958218
 prefix=ga
 game=Garcia | Music 
 stayinchannel=true
-songinstatus=false
+songinstatus=true
 token=NTk1NzIyMzYxNTU1MjU1MzEx.XRvH3Q.4w83PMvyBKFNLjOCXetnRAqZYNI
